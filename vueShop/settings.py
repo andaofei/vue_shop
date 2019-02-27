@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'vueShop.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
-
+# 数据库连接
 DATABASES = {
     # 'default': {
     #     'ENGINE': 'django.db.backends.sqlite3',
